@@ -2,7 +2,7 @@
 
 A simple portfolio based on gridsome
 
-![screenshot](https://abhisharma.co/assets/static/static/screenshot1.jpg)
+![screenshot](https://abhisharma.co/assets/static/static/screenshot1.png)
 
 ## Demo URL
 
