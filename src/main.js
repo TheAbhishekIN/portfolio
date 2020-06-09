@@ -18,17 +18,17 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
+    content: 'abhishek sharma, abhisharma,abhisharma.co, freelancer, freelance developer, laravel,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Gridsome Portfolio Starter'
+    content: 'abhishek sharma portfolio'
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Andre Madarang'
+    content: 'Abhishek Sharma'
   })
 
   head.link.push({
